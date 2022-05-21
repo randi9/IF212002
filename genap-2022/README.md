@@ -24,5 +24,5 @@
 
 ## Kelas G
 
-- []()
+- [muhamad randi septiansah](https://github.com/randi9)
 - []()
